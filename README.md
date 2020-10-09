@@ -1,2 +1,3 @@
 # XmlExchanger
-Test task
+Please make composer install before code execution.
+See test.php in the root
